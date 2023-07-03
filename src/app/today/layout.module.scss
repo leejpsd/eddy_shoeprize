@@ -1,0 +1,12 @@
+.nav {
+  padding: 16px;
+  margin-top: 8px;
+  border: 1px solid salmon;
+
+  ul {
+    display: flex;
+    li {
+      padding: 0 10px;
+    }
+  }
+}
